@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kongqi3.github.io/"/>
-  <updated>2020-10-15T11:22:22.748Z</updated>
+  <updated>2020-10-15T14:34:11.505Z</updated>
   <id>https://kongqi3.github.io/</id>
   
   <author>
@@ -17,22 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>如何正确的使用伽罗，才能把把超神？</title>
+    <title>正确的伽罗使用方式</title>
     <link href="https://kongqi3.github.io/2020/10/15/%E4%BC%BD%E7%BD%97/"/>
     <id>https://kongqi3.github.io/2020/10/15/伽罗/</id>
     <published>2020-10-15T11:22:22.494Z</published>
-    <updated>2020-10-15T11:22:22.748Z</updated>
+    <updated>2020-10-15T14:34:11.505Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://wx3.sinaimg.cn/large/006bYVyvly1g069tuf42oj312w0m8ndq.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot;
-        
-      
+      伽罗使用教学
     
     </summary>
     
@@ -42,26 +35,20 @@
   </entry>
   
   <entry>
-    <title>敏🐟的第一篇文章</title>
+    <title>空气的第一篇文章</title>
     <link href="https://kongqi3.github.io/2020/10/07/no1/"/>
     <id>https://kongqi3.github.io/2020/10/07/no1/</id>
     <published>2020-10-06T19:02:44.716Z</published>
-    <updated>2020-10-07T09:44:56.029Z</updated>
+    <updated>2020-10-15T14:37:39.922Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;2020.10.6
-        
-      
+      基本框架搭建完毕
     
     </summary>
     
     
-      <category term="🐟" scheme="https://kongqi3.github.io/tags/%F0%9F%90%9F/"/>
+      <category term="🐟，空气" scheme="https://kongqi3.github.io/tags/%F0%9F%90%9F%EF%BC%8C%E7%A9%BA%E6%B0%94/"/>
     
   </entry>
   
@@ -70,42 +57,14 @@
     <link href="https://kongqi3.github.io/2020/10/07/hello-world/"/>
     <id>https://kongqi3.github.io/2020/10/07/hello-world/</id>
     <published>2020-10-06T19:02:44.712Z</published>
-    <updated>2020-10-07T09:44:56.028Z</updated>
+    <updated>2020-10-15T14:42:07.030Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      一切都是最好的安排！！！！！！！！！
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="https://kongqi3.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>https://kongqi3.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
-    <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2020-10-07T09:44:56.028Z</updated>
-    
-    <summary type="html">
-    
-      hexo-sakura主题使用教程
-    
-    </summary>
-    
-      <category term="技术" scheme="https://kongqi3.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="web" scheme="https://kongqi3.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://kongqi3.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
